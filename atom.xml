@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/suanaifanqie/blog.git</id>
+    <id>https://suanaifanqie.github.io</id>
     <title>酸奶味番茄</title>
-    <updated>2020-06-13T02:50:37.120Z</updated>
+    <updated>2020-06-13T02:55:14.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/suanaifanqie/blog.git"/>
-    <link rel="self" href="https://github.com/suanaifanqie/blog.git/atom.xml"/>
+    <link rel="alternate" href="https://suanaifanqie.github.io"/>
+    <link rel="self" href="https://suanaifanqie.github.io/atom.xml"/>
     <subtitle>yogurtomato</subtitle>
-    <logo>https://github.com/suanaifanqie/blog.git/images/avatar.png</logo>
-    <icon>https://github.com/suanaifanqie/blog.git/favicon.ico</icon>
+    <logo>https://suanaifanqie.github.io/images/avatar.png</logo>
+    <icon>https://suanaifanqie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 酸奶味番茄</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/suanaifanqie/blog.git/hello-gridea/</id>
-        <link href="https://github.com/suanaifanqie/blog.git/hello-gridea/">
+        <id>https://suanaifanqie.github.io/hello-gridea/</id>
+        <link href="https://suanaifanqie.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
